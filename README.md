@@ -35,3 +35,5 @@ The code in this section extends the last section by adding persistent storage o
 ## Section 6
 
 The code in this section extends the previous section by replacing the manual integration with SQLite, with SQLAlchemy—an ORM (Object-Relational Mapping)—which allows us to easily replace SQLite with something like PostgreSQL or MySQL.
+
+-- rroxas -- 
